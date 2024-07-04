@@ -59,17 +59,30 @@ CCTV-13,http://14.117.233.245:9000/udp/239.77.0.188:5146
 凤凰香港,http://113.64.145.61:8081/hls/38/index.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS新闻,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-TVBS欢乐,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 TVB J1,https://epg.pw/stream/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8
 TVBS ,https://epg.pw/stream/9705160141091f1e660fad65bfa98848f3387857a2f1e00a7e59bc85450a82d1.m3u8
 RTHK31,https://epg.pw/stream/1c238ea740fa7e46808b5a69907a6a8644c7f350a10a0e70647e74e2573ea87f.m3u8
-
-
-地·方·台,#genre#
+电·影·卡·通,#genre#
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 CHC动作电影,https://epg.pw/stream/3ff20e8fa9db519981f1c4b9e142799416d9d9363fa816fbb870c1d09567caf4.m3u8
 CHC高清电影,https://epg.pw/stream/e55652981de2f11ee0175f2a45d366c1901673c8e4ea7bf58adaf00b4398a53b.m3u8
 CHC家庭影视,https://epg.pw/stream/012e62fe1c06ddf1d146ace36bb7861af02d27aa70ee7b37c3846269f8454b7e.m3u8
+CHC动作电影,http://111.126.255.2:808/hls/51/index.m3u8
+CHC高清电影,http://111.126.255.2:808/hls/51/index.m3u8
+CHC家庭影院,http://111.126.255.2:808/hls/51/index.m3u8
+CHC影迷电影,http://111.126.255.2:808/hls/51/index.m3u8
+CHC家庭电影,http://111.126.255.2:808/hls/51/index.m3u8
+陕西西部电影,http://111.126.255.2:808/hls/51/index.m3u8
+金鹰卡通,http://111.126.255.2:808/hls/51/index.m3u8
+卡酷少儿,http://111.126.255.2:808/hls/107/index.m3u8
 
+地·方·台,#genre#
+江苏城市,http://ygbh.live/js.php?id=jscs
+江苏新闻,http://ygbh.live/js.php?id=jsgg
+江苏综艺,http://ygbh.live/js.php?id=jszy
+江苏影视,http://ygbh.live/js.php?id=jsys
+江苏国际,http://ygbh.live/js.php?id=jsgj
+优漫卡通,http://ygbh.live/js.php?id=ymkt
 保定一套,http://live.bdgdw.com/channel1/playlist.m3u8?_upt=eec5e79f1719052867
 保定二套公共频道,http://live.bdgdw.com/channel2/playlist.m3u8?_upt=da8ea3641719052876
 保定三套,http://live.bdgdw.com/channel3/playlist.m3u8?_upt=9de1f7a81719052881
@@ -146,7 +159,6 @@ CHC家庭影视,https://epg.pw/stream/012e62fe1c06ddf1d146ace36bb7861af02d27aa70
 哈密3套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44.flv
 
 国·际·台,#genre#
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 AIjazeera,http://live-hls-web-aja.getaj.net/AJA/01.m3u8
 AIjazeera,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
