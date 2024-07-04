@@ -20,6 +20,11 @@ subscribe_urls = [
     "https://github.com/qjlxg/collect-tv-txt/raw/main/merged_output.txt",
     "https://github.com/qjlxg/IPTVzb1/raw/main/%E7%BB%93%E6%9E%9C.txt",
     "https://github.com/qjlxg/IPTVzb1/raw/main/%E9%85%92%E5%BA%97%E6%BA%90.txt",
+    "https://github.com/qjlxg/IPTVzb1/raw/main/%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1.txt",
+    "https://github.com/qjlxg/iptv4/raw/master/iptv4.m3u",
+    "https://github.com/qjlxg/IPTVzb1/raw/main/%E6%B9%96%E5%8C%97%E7%94%B5%E4%BF%A1.txt",
+    "https://github.com/qjlxg/IPTVzb1/raw/main/%E6%B9%96%E5%8C%97%E8%81%94%E9%80%9A.txt",
+    "https://github.com/qjlxg/IPTVzb1/raw/main/%E6%B9%96%E5%8D%97%E7%94%B5%E4%BF%A1.txt",
 ]
 open_multicast = True
 region_list = ["all"]
