@@ -1,30 +1,3 @@
-广东频道,#genre#
-广东珠江,http://113.86.204.95:9999/udp/239.77.0.1:5146
-江门综合,http://www.namewee.xyz/gudou.php?id=jiangmenzongheHD
-江门侨乡生活,http://www.namewee.xyz/gudou.php?id=jiangmenyitao_1500
-广东新闻,http://113.101.119.52:808/hls/106/index.m3u8
-广东卫视,http://219.147.3.106:4455/newlive/live/hls/26/live.m3u8
-大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-广州综合,http://www.namewee.xyz/gudou.php?id=gzhounewsHD
-广州新闻,http://www.namewee.xyz/gudou.php?id=gzhouzongheHD
-广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8
-佛山综合,http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500
-佛山公共,http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500
-佛山影视,http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500
-顺德综合,http://www.namewee.xyz/gudou.php?id=shundeHD_4500
-珠海,http://113.86.204.95:9999/udp/239.77.0.155:5146
-深圳财经,https://tv.cry33.com/shenzhen.php?id=szcjsh
-深圳电视剧,https://tv.cry33.com/shenzhen.php?id=szdsj
-深圳都市,https://tv.cry33.com/shenzhen.php?id=szds
-深圳公共,https://tv.cry33.com/shenzhen.php?id=szgg
-深圳国际,https://tv.cry33.com/shenzhen.php?id=szgj
-深圳少儿,https://tv.cry33.com/shenzhen.php?id=szse
-深圳娱乐,https://tv.cry33.com/shenzhen.php?id=szyl
-东莞生活,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
-东莞生活,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
-东莞新闻,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
-东莞新闻,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
-
 央视频道,#genre#
 CCTV-1,http://14.117.233.245:9000/udp/239.77.0.188:5146
 CCTV-2,http://112.114.137.121:888/hls/2/index.m3u8
@@ -87,8 +60,16 @@ CCTV-13,http://14.117.233.245:9000/udp/239.77.0.188:5146
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS新闻,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 TVBS欢乐,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
+TVB J1,https://epg.pw/stream/986f41c189cd130338872f44469eba694424dbbb2a9b61639365b47400dde6b3.m3u8
+TVBS ,https://epg.pw/stream/9705160141091f1e660fad65bfa98848f3387857a2f1e00a7e59bc85450a82d1.m3u8
+RTHK31,https://epg.pw/stream/1c238ea740fa7e46808b5a69907a6a8644c7f350a10a0e70647e74e2573ea87f.m3u8
+
 
 地·方·台,#genre#
+CHC动作电影,https://epg.pw/stream/3ff20e8fa9db519981f1c4b9e142799416d9d9363fa816fbb870c1d09567caf4.m3u8
+CHC高清电影,https://epg.pw/stream/e55652981de2f11ee0175f2a45d366c1901673c8e4ea7bf58adaf00b4398a53b.m3u8
+CHC家庭影视,https://epg.pw/stream/012e62fe1c06ddf1d146ace36bb7861af02d27aa70ee7b37c3846269f8454b7e.m3u8
+
 保定一套,http://live.bdgdw.com/channel1/playlist.m3u8?_upt=eec5e79f1719052867
 保定二套公共频道,http://live.bdgdw.com/channel2/playlist.m3u8?_upt=da8ea3641719052876
 保定三套,http://live.bdgdw.com/channel3/playlist.m3u8?_upt=9de1f7a81719052881
@@ -129,6 +110,40 @@ TVBS欢乐,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883
 遵义新闻综合频道,http://pluslive.zunyifb.com/xwpd/playlist.m3u8?_upt=c4dde1371719055056
 遵义都市频道,http://pluslive.zunyifb.com/dspd/playlist.m3u8?_upt=383250701719055062
 遵义公共频道,http://pluslive.zunyifb.com/ggpd/playlist.m3u8?_upt=39ffc8181719055068
+甘肃公共,https://epg.pw/stream/8dc185b262a055ffd5eca3ab59977debe7b5dbeb96c0988a0dc1632b9fabf520.m3u8
+甘肃少儿,https://epg.pw/stream/d7f3a7ed65c116cddef03557fa199cc00f04cb199dce9a4506616e7faed442c7.m3u8
+广西新闻,https://epg.pw/stream/5a63df536f2a1772e2dc5847f58a13b84f3c0ba095d266fc9f27c1e392eaf2d4.m3u8
+广西影视,https://epg.pw/stream/397ad4626ff6079e13990bc6474d9a855c149a7fdf3c827d83bd1277547dc025.m3u8
+广西广东珠江,http://113.86.204.95:9999/udp/239.77.0.1:5146
+江门综合,http://www.namewee.xyz/gudou.php?id=jiangmenzongheHD
+江门侨乡生活,http://www.namewee.xyz/gudou.php?id=jiangmenyitao_1500
+广东新闻,http://113.101.119.52:808/hls/106/index.m3u8
+广东卫视,http://219.147.3.106:4455/newlive/live/hls/26/live.m3u8
+大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+广州综合,http://www.namewee.xyz/gudou.php?id=gzhounewsHD
+广州新闻,http://www.namewee.xyz/gudou.php?id=gzhouzongheHD
+广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8
+佛山综合,http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500
+佛山公共,http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500
+佛山影视,http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500
+顺德综合,http://www.namewee.xyz/gudou.php?id=shundeHD_4500
+珠海,http://113.86.204.95:9999/udp/239.77.0.155:5146
+深圳财经,https://tv.cry33.com/shenzhen.php?id=szcjsh
+深圳电视剧,https://tv.cry33.com/shenzhen.php?id=szdsj
+深圳都市,https://tv.cry33.com/shenzhen.php?id=szds
+深圳公共,https://tv.cry33.com/shenzhen.php?id=szgg
+深圳国际,https://tv.cry33.com/shenzhen.php?id=szgj
+深圳少儿,https://tv.cry33.com/shenzhen.php?id=szse
+深圳娱乐,https://tv.cry33.com/shenzhen.php?id=szyl
+东莞生活,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+东莞生活,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+东莞新闻,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+东莞新闻,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+哈密1套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
+哈密1套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b/playlist.m3u8
+哈密2套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711.flv
+哈密2套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
+哈密3套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44.flv
 
 国·际·台,#genre#
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
@@ -140,8 +155,6 @@ FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 KBC SBS 综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 KBS,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-ntv,https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8
 
 
