@@ -29,7 +29,9 @@ subscribe_urls = [
     "https://github.com/lalifeier/IPTV/raw/main/txt/Local.txt",
     "https://github.com/lalifeier/IPTV/raw/main/txt/hk.txt",
     "https://github.com/qjlxg/TVtest/raw/master/985.txt",
-        "https://github.com/qjlxg/IPTVzb1/raw/main/%E6%B9%96%E5%8C%97%E7%94%B5%E4%BF%A1.txt",
+    "https://github.com/qjlxg/TVtest/raw/master/8460.txt",
+    "https://github.com/qjlxg/TVtest/raw/master/627.txt",
+    "https://github.com/qjlxg/IPTVzb1/raw/main/%E6%B9%96%E5%8C%97%E7%94%B5%E4%BF%A1.txt",
     "https://github.com/qjlxg/IPTVzb1/raw/main/%E6%B9%96%E5%8C%97%E8%81%94%E9%80%9A.txt",
     "https://github.com/qjlxg/IPTVzb1/raw/main/%E6%B9%96%E5%8D%97%E7%94%B5%E4%BF%A1.txt",
 ]
