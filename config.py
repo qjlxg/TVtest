@@ -17,6 +17,7 @@ domain_blacklist = ["epg.pw"]
 url_keywords_blacklist = []
 open_subscribe = True
 subscribe_urls = [
+    "https://github.com/FunctionError/PiratesTv/raw/main/combined_playlist.m3u",
     "https://github.com/qjlxg/collect-tv-txt/raw/main/merged_output.txt",
     "https://github.com/qjlxg/IPTVzb1/raw/main/%E7%BB%93%E6%9E%9C.txt",
     "https://github.com/qjlxg/IPTVzb1/raw/main/%E9%85%92%E5%BA%97%E6%BA%90.txt",
