@@ -17,7 +17,7 @@ domain_blacklist = ["epg.pw"]
 url_keywords_blacklist = []
 open_subscribe = True
 subscribe_urls = [
-    "https://github.com/qjlxg/TV/raw/main/list.txt",
+    "",
     "https://github.com/qjlxg/collect-tv-txt/raw/main/others_output.txt",
     
 ]
