@@ -18,7 +18,7 @@ url_keywords_blacklist = []
 open_subscribe = True
 subscribe_urls = [
     "",
-    "https://github.com/qjlxg/TVtest/raw/master/TV",
+    "https://github.com/qjlxg/TVtest/raw/master/TV.txt",
     
 ]
 open_multicast = True
